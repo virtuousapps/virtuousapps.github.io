@@ -41,7 +41,7 @@ permalink: /network/
 - [Asana](https://asana.com/ )
 
 ## Syndicators
--[Life Bridge Capital](https://lifebridgecapital.com), Multifamily - Boise, Idaho & Colorado Springs
+- [Life Bridge Capital](https://lifebridgecapital.com), Multifamily - Boise, Idaho & Colorado Springs
 - [Origin Investments](https://origininvestments.com)
 - [Rise48 Equity]([)](https://rise48equity.com), Multifamily Phoenix, Az
 - [Bequest Funds Debt Fund](https://www.bqfunds.com), debt funds
