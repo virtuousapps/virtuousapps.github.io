@@ -25,11 +25,11 @@ permalink: /network/
 
 ## Multifamily 
 - [Gray Report](https://www.grayreport.com/)
-- Find your next commercial property LoopNet
+- [LoopNet](https://www.loopnet.com), commercial property 
 - [Commercial Real Estate Information](https://www.costar.com/)
 - [Howard Marks quarterly newsletters](oaktreecapital.com)
 - [PropertyRadar](https://www.propertyradar.com)
-- https://motivated-leads.com
+- [https://motivated-leads.com](https://motivated-leads.com)
 - [Real Estate Information Propstream](https://www.propstream.com/)
 - [Education, Tools, and Community](https://www.biggerpockets.com/)
 - [Wyoming Trust & LLC Attorney](https://wyomingllcattorney.com/)
@@ -41,12 +41,11 @@ permalink: /network/
 - [Asana](https://asana.com/ )
 
 ## Syndicators
-- Life Bridge Capital Multifamily - Boise, Idaho & Colorado Springs
-- Open Door Capital
-- Origin Investments
-- Rise48 Equity Multifamily Phoenix, Az
-- Bequest Funds Debt Fund
-- Reliant Real Estate Management self-storage funds
+-[Life Bridge Capital](https://lifebridgecapital.com), Multifamily - Boise, Idaho & Colorado Springs
+- [Origin Investments](https://origininvestments.com)
+- [Rise48 Equity]([)](https://rise48equity.com), Multifamily Phoenix, Az
+- [Bequest Funds Debt Fund](https://www.bqfunds.com), debt funds
+- [Reliant Real Estate Management](https://www.reliant-mgmt.com), self-storage funds
 - [Verivest](https://verivest.com/), 3rd party verification for investors
 
 ## Loans

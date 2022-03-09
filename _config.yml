@@ -21,9 +21,9 @@
 title: Virtuous Cycle Capital
 email: info@virtuouscyclecapital.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Promote Freedom. Find Value. 
+  Compound Freedom with Real Estate
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://virtuouscyclecapital.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  virtuousapps
 
 # Build settings
